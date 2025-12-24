@@ -28,11 +28,11 @@ The **Iris Flower Classification** project is a powerful and engaging web applic
 
 ### 📊 Prediction Results
 
-![alt text](SampleScreenshots/Screenshot (1689).png)
+![alt text](SampleScreenshots/Screenshot%20(1689).png)
 
-![alt text](SampleScreenshots/Screenshot (1690).png)
+![alt text](SampleScreenshots/Screenshot%20(1690).png)
 
-![alt text](SampleScreenshots/Screenshot (1691).png)
+![alt text](SampleScreenshots/Screenshot%20(1691).png)
 
 *Real-time classification results with model comparison*
 
